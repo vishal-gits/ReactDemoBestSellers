@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/ReactDemoBestSellers/static/css/main.c485b0f3.css",
-    "main.js": "/ReactDemoBestSellers/static/js/main.4f6d62f1.js",
+    "main.css": "/ReactDemoBestSellers/static/css/main.34f88882.css",
+    "main.js": "/ReactDemoBestSellers/static/js/main.3362f0b2.js",
     "static/media/book2.jpg": "/ReactDemoBestSellers/static/media/book2.395afcbd7a2ea4fd1a2c.jpg",
+    "static/media/book9.jpg": "/ReactDemoBestSellers/static/media/book9.b230536485d238e4c09e.jpg",
+    "static/media/book10.jpg": "/ReactDemoBestSellers/static/media/book10.424a1c10433f0855a740.jpg",
+    "static/media/book7.jpg": "/ReactDemoBestSellers/static/media/book7.1534601b53c3121bcbb5.jpg",
+    "static/media/book6.jpg": "/ReactDemoBestSellers/static/media/book6.c346963e3a973ff2f6ad.jpg",
+    "static/media/book8.jpg": "/ReactDemoBestSellers/static/media/book8.35f36c8dec5d2518fb57.jpg",
     "static/media/book3.jpg": "/ReactDemoBestSellers/static/media/book3.19e5d55f75f17ac8bdc7.jpg",
     "static/media/book1.jpg": "/ReactDemoBestSellers/static/media/book1.eb2c1beb7271fb181319.jpg",
+    "static/media/book5.jpg": "/ReactDemoBestSellers/static/media/book5.35f233d50670be585ee8.jpg",
     "static/media/book4.jpg": "/ReactDemoBestSellers/static/media/book4.be7d3fad3d73b43e2884.jpg",
     "index.html": "/ReactDemoBestSellers/index.html",
-    "main.c485b0f3.css.map": "/ReactDemoBestSellers/static/css/main.c485b0f3.css.map",
-    "main.4f6d62f1.js.map": "/ReactDemoBestSellers/static/js/main.4f6d62f1.js.map"
+    "main.34f88882.css.map": "/ReactDemoBestSellers/static/css/main.34f88882.css.map",
+    "main.3362f0b2.js.map": "/ReactDemoBestSellers/static/js/main.3362f0b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c485b0f3.css",
-    "static/js/main.4f6d62f1.js"
+    "static/css/main.34f88882.css",
+    "static/js/main.3362f0b2.js"
   ]
 }
